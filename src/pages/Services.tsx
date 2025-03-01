@@ -19,7 +19,7 @@ const Services: React.FC = () => {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Comprehensive Construction Services</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              At APM & IQRA Construction Experts, we offer a wide range of construction services to meet all your building needs. From residential and commercial projects to government infrastructure, our team of experts delivers excellence at every step.
+              At APM Construction Experts, we offer a wide range of construction services to meet all your building needs. From residential and commercial projects to government infrastructure, our team of experts delivers excellence at every step.
             </p>
           </div>
         </div>
@@ -273,7 +273,7 @@ const Services: React.FC = () => {
       {/* CTA Section */}
       <section className="py-16 bg-red-600 text-white">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold mb-4">Ready to Start Your Construction Project?</h2>
+          <h2 className="text-3xl text-white font-bold mb-4">Ready to Start Your Construction Project?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
             Contact us today for a free consultation and let us bring your construction vision to life.
           </p>

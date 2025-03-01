@@ -49,7 +49,7 @@ const Contact: React.FC = () => {
                     type="tel" 
                     id="phone" 
                     className="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-red-500"
-                    placeholder="+91 9876543210"
+                    placeholder="+91 9885367899"
                   />
                 </div>
                 <div>
@@ -106,8 +106,8 @@ const Contact: React.FC = () => {
                   <div>
                     <h3 className="text-xl font-bold mb-1">Phone</h3>
                     <p className="text-gray-600">
-                      Main Office: +91 9876543210<br />
-                      Customer Support: +91 9876543211
+                      Main Office: +91 9885367899<br />
+                      Customer Support: +91 9885367899
                     </p>
                   </div>
                 </div>
@@ -118,9 +118,9 @@ const Contact: React.FC = () => {
                   <div>
                     <h3 className="text-xl font-bold mb-1">Email</h3>
                     <p className="text-gray-600">
-                      General Inquiries: info@apmiqra.com<br />
-                      Project Inquiries: projects@apmiqra.com<br />
-                      Careers: careers@apmiqra.com
+                      General Inquiries: info@apmconstructions.com<br />
+                      Project Inquiries: projects@apmconstructions.com<br />
+                      Careers: careers@apmconstructions.com
                     </p>
                   </div>
                 </div>
@@ -232,7 +232,7 @@ const Contact: React.FC = () => {
               <div className="bg-white rounded-lg shadow-md p-6">
                 <h3 className="text-xl font-bold mb-3">Are you licensed and insured?</h3>
                 <p className="text-gray-600">
-                  Yes, APM & IQRA Construction Experts is fully licensed and insured. We maintain all necessary certifications and insurance coverage to protect our clients and projects.
+                  Yes, APM Construction Experts is fully licensed and insured. We maintain all necessary certifications and insurance coverage to protect our clients and projects.
                 </p>
               </div>
             </div>
@@ -243,7 +243,7 @@ const Contact: React.FC = () => {
       {/* CTA Section */}
       <section className="py-16 bg-red-600 text-white">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold mb-4">Ready to Start Your Construction Project?</h2>
+          <h2 className="text-3xl text-white font-bold mb-4">Ready to Start Your Construction Project?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
             Contact us today for a free consultation and let us bring your construction vision to life.
           </p>

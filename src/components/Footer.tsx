@@ -10,9 +10,9 @@ const Footer: React.FC = () => {
           {/* Company Info */}
           <div>
             <div className="flex items-center mb-4">
-              <Building2 className="h-8 w-8 text-red-500 mr-2" />
+            <img src="/src/assets/logo.svg" className='h-12 w-12 mr-2' alt="APM Logo" width="50" height="50"></img>
               <div>
-                <h3 className="text-xl font-bold text-white m-0">APM & IQRA</h3>
+                <h3 className="text-xl font-bold text-white m-0">APM</h3>
                 <p className="text-sm text-gray-300 m-0">Construction Experts</p>
               </div>
             </div>
@@ -71,18 +71,18 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 text-red-500 mr-2" />
-                <span className="text-gray-400">+91 9876543210</span>
+                <span className="text-gray-400">+91 9885367899</span>
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-red-500 mr-2" />
-                <span className="text-gray-400">info@apmiqra.com</span>
+                <span className="text-gray-400">info@apmconstructions.com</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-6 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} APM & IQRA Construction Experts. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} APM Construction Experts. All rights reserved.</p>
         </div>
       </div>
     </footer>

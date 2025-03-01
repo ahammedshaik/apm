@@ -14,9 +14,10 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center py-4">
           <Link to="/" className="flex items-center">
-            <Building2 className="h-8 w-8 text-red-600 mr-2" />
+            
+            <img src="/src/assets/logo.svg" className='h-12 w-12 mr-2' alt="APM Logo" width="50" height="50"></img>
             <div>
-              <h1 className="text-xl font-bold text-gray-800 m-0">APM & IQRA</h1>
+              <h1 className="text-xl font-bold text-gray-800 m-0">APM</h1>
               <p className="text-sm text-gray-600 m-0">Construction Experts</p>
             </div>
           </Link>

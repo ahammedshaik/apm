@@ -8,7 +8,7 @@ const About: React.FC = () => {
     <div>
       {/* Hero Section */}
       <HeroSection 
-        title="About APM & IQRA Construction"
+        title="About APM Construction"
         subtitle="Learn about our journey, values, and commitment to excellence in construction"
         backgroundImage="https://images.unsplash.com/photo-1531834685032-c34bf0d84c77?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1737&q=80"
       />
@@ -27,13 +27,13 @@ const About: React.FC = () => {
             <div className="md:w-1/2">
               <h2 className="text-3xl font-bold mb-4">Our Story</h2>
               <p className="text-gray-600 mb-4">
-                Founded in 2010, APM & IQRA Construction Experts began as a small team of passionate construction professionals with a vision to transform the construction landscape in Hyderabad. Over the years, we have grown into one of the most trusted construction companies in the region.
+                Founded in 2010, APM Construction Experts began as a small team of passionate construction professionals with a vision to transform the construction landscape in Hyderabad. Over the years, we have grown into one of the most trusted construction companies in the region.
               </p>
               <p className="text-gray-600 mb-4">
                 Our journey has been marked by a relentless pursuit of excellence, innovation, and customer satisfaction. We have successfully completed numerous projects across residential, commercial, and government sectors, each standing as a testament to our quality and craftsmanship.
               </p>
               <p className="text-gray-600 mb-6">
-                Today, APM & IQRA Construction Experts is recognized for its commitment to quality, timely delivery, and exceptional customer service. We continue to grow and evolve, embracing new technologies and sustainable practices to deliver construction solutions that exceed expectations.
+                Today, APM Construction Experts is recognized for its commitment to quality, timely delivery, and exceptional customer service. We continue to grow and evolve, embracing new technologies and sustainable practices to deliver construction solutions that exceed expectations.
               </p>
             </div>
           </div>
@@ -144,7 +144,7 @@ const About: React.FC = () => {
       <section className="py-16 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">Why Choose APM & IQRA Construction?</h2>
+            <h2 className="text-3xl font-bold mb-4">Why Choose APM Construction?</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               We offer a unique combination of expertise, quality, and customer-focused service that sets us apart.
             </p>
@@ -223,7 +223,7 @@ const About: React.FC = () => {
       {/* CTA Section */}
       <section className="py-16 bg-red-600 text-white">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold mb-4">Ready to Work with Us?</h2>
+          <h2 className="text-3xl text-white font-bold mb-4">Ready to Work with Us?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
             Contact us today to discuss your construction needs and how we can help bring your vision to life.
           </p>

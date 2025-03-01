@@ -19,79 +19,78 @@ const Projects: React.FC = () => {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Our Completed Projects</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              At APM & IQRA Construction Experts, we take pride in our portfolio of successfully completed projects. Each project stands as a testament to our commitment to quality, innovation, and client satisfaction.
+              At APM Construction Experts, we take pride in our portfolio of successfully completed projects. Each project stands as a testament to our commitment to quality, innovation, and client satisfaction.
             </p>
           </div>
 
           {/* Project Categories */}
           <div className="flex flex-wrap justify-center gap-4 mb-12">
             <button className="bg-red-600 text-white px-6 py-2 rounded-full">All Projects</button>
-            <button className="bg-gray-200 hover:bg-gray-300 px-6 py-2 rounded-full">Residential</button>
-            <button className="bg-gray-200 hover:bg-gray-300 px-6 py-2 rounded-full">Commercial</button>
-            <button className="bg-gray-200 hover:bg-gray-300 px-6 py-2 rounded-full">Government</button>
-            <button className="bg-gray-200 hover:bg-gray-300 px-6 py-2 rounded-full">Renovation</button>
+            <button className="bg-gray-200 hover:bg-gray-300 px-6 py-2 rounded-full">Ongoing</button>
+            <button className="bg-gray-200 hover:bg-gray-300 px-6 py-2 rounded-full">Completed</button>
+            <button className="bg-gray-200 hover:bg-gray-300 px-6 py-2 rounded-full">Upcomming</button>
           </div>
 
           {/* Projects Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <ProjectCard 
-              image="https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
+              image="/src/assets/project1.jpeg"
               title="Luxury Villa Complex"
               category="Residential"
               description="A premium residential complex featuring 12 luxury villas with modern amenities and sustainable design."
               link="/projects"
             />
             <ProjectCard 
-              image="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
+              image="/src/assets/project2.jpeg"
               title="Corporate Headquarters"
-              category="Commercial"
+              category="Residential"
               description="A state-of-the-art office building designed for a leading tech company in Hyderabad's IT corridor."
               link="/projects"
             />
             <ProjectCard 
-              image="https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80"
+              image="/src/assets/project3.jpeg"
               title="Municipal Library"
-              category="Government"
+              category="Residential"
               description="A modern public library with digital facilities and sustainable architecture for the community."
               link="/projects"
             />
             <ProjectCard 
-              image="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
+              image="/src/assets/project4.jpeg"
               title="Modern Family Home"
               category="Residential"
               description="A contemporary family residence with open floor plans, energy-efficient systems, and smart home technology."
               link="/projects"
             />
             <ProjectCard 
-              image="https://images.unsplash.com/photo-1555636222-cae831e670b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
+              image="/src/assets/project5.jpeg"
               title="Shopping Mall Renovation"
               category="Commercial"
               description="Complete renovation and modernization of a shopping mall, enhancing aesthetics and functionality."
               link="/projects"
             />
             <ProjectCard 
-              image="https://images.unsplash.com/photo-1497366811353-6870744d04b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
+              image="/src/assets/project6.jpeg"
               title="Community Health Center"
               category="Government"
               description="A healthcare facility designed to serve the local community with modern medical infrastructure."
               link="/projects"
             />
             <ProjectCard 
-              image="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
+              image="/src/assets/project7.jpeg"
               title="Suburban Townhouses"
               category="Residential"
               description="A development of 24 townhouses with contemporary design and community amenities."
               link="/projects"
             />
             <ProjectCard 
-              image="https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
-              title="Boutique Hotel"
+              image="/src/assets/project8.jpeg"
+              title="Hotel"
               category="Commercial"
               description="A luxury boutique hotel featuring 30 rooms, a restaurant, and recreational facilities."
               link="/projects"
             />
             <ProjectCard 
-              image="https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1738&q=80"
+              image="/src/assets/project9.jpeg"
               title="Public School Complex"
               category="Government"
               description="A modern educational facility with classrooms, laboratories, and sports infrastructure."
@@ -175,7 +174,7 @@ const Projects: React.FC = () => {
                 </div>
               </div>
               <p className="text-gray-600 italic">
-                "APM & IQRA Construction delivered our dream home exactly as we envisioned. Their attention to detail and quality of work is exceptional. The project was completed on time and the team was professional throughout the process."
+                "APM Construction delivered our dream home exactly as we envisioned. Their attention to detail and quality of work is exceptional. The project was completed on time and the team was professional throughout the process."
               </p>
             </div>
             <div className="bg-white rounded-lg shadow-lg p-6">
@@ -189,7 +188,7 @@ const Projects: React.FC = () => {
                 </div>
               </div>
               <p className="text-gray-600 italic">
-                "Working with APM & IQRA for our office building was a seamless experience. They understood our requirements perfectly and delivered a space that enhances productivity and reflects our brand identity. Highly recommended!"
+                "Working with APM for our office building was a seamless experience. They understood our requirements perfectly and delivered a space that enhances productivity and reflects our brand identity. Highly recommended!"
               </p>
             </div>
           </div>
@@ -199,7 +198,7 @@ const Projects: React.FC = () => {
       {/* CTA Section */}
       <section className="py-16 bg-red-600 text-white">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold mb-4">Ready to Start Your Construction Project?</h2>
+          <h2 className="text-3xl text-white font-bold mb-4">Ready to Start Your Construction Project?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
             Contact us today for a free consultation and let us bring your construction vision to life.
           </p>
