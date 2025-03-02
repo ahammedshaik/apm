@@ -34,63 +34,63 @@ const Projects: React.FC = () => {
           {/* Projects Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <ProjectCard 
-              image="/src/assets/project1.jpeg"
+              image="/assets/project1.jpeg"
               title="Luxury Villa Complex"
               category="Residential"
               description="A premium residential complex featuring 12 luxury villas with modern amenities and sustainable design."
               link="/projects"
             />
             <ProjectCard 
-              image="/src/assets/project2.jpeg"
+              image="/assets/project2.jpeg"
               title="Corporate Headquarters"
               category="Residential"
               description="A state-of-the-art office building designed for a leading tech company in Hyderabad's IT corridor."
               link="/projects"
             />
             <ProjectCard 
-              image="/src/assets/project3.jpeg"
+              image="/assets/project3.jpeg"
               title="Municipal Library"
               category="Residential"
               description="A modern public library with digital facilities and sustainable architecture for the community."
               link="/projects"
             />
             <ProjectCard 
-              image="/src/assets/project4.jpeg"
+              image="/assets/project4.jpeg"
               title="Modern Family Home"
               category="Residential"
               description="A contemporary family residence with open floor plans, energy-efficient systems, and smart home technology."
               link="/projects"
             />
             <ProjectCard 
-              image="/src/assets/project5.jpeg"
+              image="/assets/project5.jpeg"
               title="Shopping Mall Renovation"
               category="Commercial"
               description="Complete renovation and modernization of a shopping mall, enhancing aesthetics and functionality."
               link="/projects"
             />
             <ProjectCard 
-              image="/src/assets/project6.jpeg"
+              image="/assets/project6.jpeg"
               title="Community Health Center"
               category="Government"
               description="A healthcare facility designed to serve the local community with modern medical infrastructure."
               link="/projects"
             />
             <ProjectCard 
-              image="/src/assets/project7.jpeg"
+              image="/assets/project7.jpeg"
               title="Suburban Townhouses"
               category="Residential"
               description="A development of 24 townhouses with contemporary design and community amenities."
               link="/projects"
             />
             <ProjectCard 
-              image="/src/assets/project8.jpeg"
+              image="/assets/project8.jpeg"
               title="Hotel"
               category="Commercial"
               description="A luxury boutique hotel featuring 30 rooms, a restaurant, and recreational facilities."
               link="/projects"
             />
             <ProjectCard 
-              image="/src/assets/project9.jpeg"
+              image="/assets/project9.jpeg"
               title="Public School Complex"
               category="Government"
               description="A modern educational facility with classrooms, laboratories, and sports infrastructure."
