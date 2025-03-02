@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           {/* Company Info */}
           <div>
             <div className="flex items-center mb-4">
-            <img src="assets/logo.svg" className='h-12 w-12 mr-2' alt="APM Logo" width="50" height="50"></img>
+            <img src="logo.svg" className='h-12 w-12 mr-2' alt="APM Logo" width="50" height="50"></img>
               <div>
                 <h3 className="text-xl font-bold text-white m-0">APM</h3>
                 <p className="text-sm text-gray-300 m-0">Construction Experts</p>
