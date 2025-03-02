@@ -124,21 +124,21 @@ const Home: React.FC = () => {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <ProjectCard 
-              image="https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
+              image="/assets/projects/project1.jpeg"
               title="Luxury Villa Complex"
               category="Residential"
               description="A premium residential complex featuring 12 luxury villas with modern amenities and sustainable design."
               link="/projects"
             />
             <ProjectCard 
-              image="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
+              image="/assets/projects/project2.jpeg"
               title="Corporate Headquarters"
               category="Commercial"
               description="A state-of-the-art office building designed for a leading tech company in Hyderabad's IT corridor."
               link="/projects"
             />
             <ProjectCard 
-              image="https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80"
+              image="/assets/projects/project3.jpeg"
               title="Municipal Library"
               category="Government"
               description="A modern public library with digital facilities and sustainable architecture for the community."

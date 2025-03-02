@@ -93,8 +93,8 @@ const Contact: React.FC = () => {
                   <div>
                     <h3 className="text-xl font-bold mb-1">Our Office</h3>
                     <p className="text-gray-600">
-                      123 Construction Avenue, Banjara Hills<br />
-                      Hyderabad, Telangana 500034<br />
+                      Plot No.87, Brindavan Colony, Toli Chowki,<br />
+                      Hyderabad, Telangana 500008<br />
                       India
                     </p>
                   </div>
