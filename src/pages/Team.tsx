@@ -19,7 +19,7 @@ const Team: React.FC = () => {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Our Leadership Team</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              At APM Construction Experts, our success is driven by our team of highly skilled professionals. With decades of combined experience in the construction industry, our team brings expertise, innovation, and dedication to every project.
+              At APM Construction, our success is driven by our team of highly skilled professionals. With decades of combined experience in the construction industry, our team brings expertise, innovation, and dedication to every project.
             </p>
           </div>
 
@@ -99,7 +99,7 @@ const Team: React.FC = () => {
             <div className="md:w-1/2">
               <h2 className="text-3xl font-bold mb-4">Our Team Approach</h2>
               <p className="text-gray-600 mb-4">
-                At APM Construction Experts, we believe in the power of collaboration. Our team works together seamlessly, combining their diverse expertise to deliver exceptional results for our clients.
+                At APM Construction, we believe in the power of collaboration. Our team works together seamlessly, combining their diverse expertise to deliver exceptional results for our clients.
               </p>
               <p className="text-gray-600 mb-4">
                 We foster a culture of innovation, continuous learning, and excellence. Our team members regularly update their skills and knowledge to stay at the forefront of the construction industry.

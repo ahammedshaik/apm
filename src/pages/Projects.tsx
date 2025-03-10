@@ -19,7 +19,7 @@ const Projects: React.FC = () => {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Our Completed Projects</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              At APM Construction Experts, we take pride in our portfolio of successfully completed projects. Each project stands as a testament to our commitment to quality, innovation, and client satisfaction.
+              At APM Construction, we take pride in our portfolio of successfully completed projects. Each project stands as a testament to our commitment to quality, innovation, and client satisfaction.
             </p>
           </div>
 

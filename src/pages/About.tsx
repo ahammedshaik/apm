@@ -27,13 +27,13 @@ const About: React.FC = () => {
             <div className="md:w-1/2">
               <h2 className="text-3xl font-bold mb-4">Our Story</h2>
               <p className="text-gray-600 mb-4">
-                Founded in 2010, APM Construction Experts began as a small team of passionate construction professionals with a vision to transform the construction landscape in Hyderabad. Over the years, we have grown into one of the most trusted construction companies in the region.
+                Founded in 2010, APM Construction began as a small team of passionate construction professionals with a vision to transform the construction landscape in Hyderabad. Over the years, we have grown into one of the most trusted construction companies in the region.
               </p>
               <p className="text-gray-600 mb-4">
                 Our journey has been marked by a relentless pursuit of excellence, innovation, and customer satisfaction. We have successfully completed numerous projects across residential, commercial, and government sectors, each standing as a testament to our quality and craftsmanship.
               </p>
               <p className="text-gray-600 mb-6">
-                Today, APM Construction Experts is recognized for its commitment to quality, timely delivery, and exceptional customer service. We continue to grow and evolve, embracing new technologies and sustainable practices to deliver construction solutions that exceed expectations.
+                Today, APM Construction is recognized for its commitment to quality, timely delivery, and exceptional customer service. We continue to grow and evolve, embracing new technologies and sustainable practices to deliver construction solutions that exceed expectations.
               </p>
             </div>
           </div>

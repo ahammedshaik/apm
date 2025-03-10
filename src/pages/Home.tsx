@@ -12,7 +12,7 @@ const Home: React.FC = () => {
       {/* Hero Section */}
       <HeroSection 
         title="Building Excellence in Hyderabad"
-        subtitle="APM Construction Experts - Your trusted partner for residential, commercial, and government construction projects."
+        subtitle="APM Construction - Your trusted partner for residential, commercial, and government construction projects."
         buttonText="Get a Free Consultation"
         buttonLink="/contact"
         backgroundImage="https://images.unsplash.com/photo-1541888946425-d81bb19240f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
@@ -32,7 +32,7 @@ const Home: React.FC = () => {
             <div className="md:w-1/2">
               <h2 className="text-3xl font-bold mb-4">About APM Construction</h2>
               <p className="text-gray-600 mb-4">
-                With over a decade of experience in the construction industry, APM Construction Experts has established itself as one of the leading construction companies in Hyderabad. We specialize in residential, commercial, and government construction projects.
+                With over a decade of experience in the construction industry, APM Construction has established itself as one of the leading construction companies in Hyderabad. We specialize in residential, commercial, and government construction projects.
               </p>
               <p className="text-gray-600 mb-6">
                 Our team of highly skilled professionals is committed to delivering exceptional quality, innovative solutions, and timely project completion. We take pride in our attention to detail and our ability to bring our clients' visions to life.

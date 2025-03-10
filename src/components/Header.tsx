@@ -18,7 +18,7 @@ const Header: React.FC = () => {
             <img src="/assets/logo.svg" className='h-12 w-12 mr-2' alt="APM Logo" width="50" height="50"></img>
             <div>
               <h1 className="text-xl font-bold text-gray-800 m-0">APM</h1>
-              <p className="text-sm text-gray-600 m-0">Construction Experts</p>
+              <p className="text-sm text-gray-600 m-0">Construction</p>
             </div>
           </Link>
 
