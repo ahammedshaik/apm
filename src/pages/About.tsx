@@ -8,7 +8,7 @@ const About: React.FC = () => {
     <div>
       {/* Hero Section */}
       <HeroSection 
-        title="About APM Constructionss"
+        title="About APM Constructions"
         subtitle="Learn about our journey, values, and commitment to excellence in construction"
         backgroundImage="https://images.unsplash.com/photo-1531834685032-c34bf0d84c77?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1737&q=80"
       />
@@ -33,7 +33,7 @@ const About: React.FC = () => {
                 Our journey has been marked by a relentless pursuit of excellence, innovation, and customer satisfaction. We have successfully completed numerous projects across residential, commercial, and government sectors, each standing as a testament to our quality and craftsmanship.
               </p>
               <p className="text-gray-600 mb-6">
-                Today, APM Construction is recognized for its commitment to quality, timely delivery, and exceptional customer service. We continue to grow and evolve, embracing new technologies and sustainable practices to deliver construction solutions that exceed expectations.
+                Today, APM Constructions is recognized for its commitment to quality, timely delivery, and exceptional customer service. We continue to grow and evolve, embracing new technologies and sustainable practices to deliver construction solutions that exceed expectations.
               </p>
             </div>
           </div>

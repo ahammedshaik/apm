@@ -176,7 +176,7 @@ const Home: React.FC = () => {
               image="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
             />
             <TestimonialCard 
-              quote="The municipal project handled by APM Constructionss was executed with utmost professionalism and adherence to all regulations."
+              quote="The municipal project handled by APM Constructions was executed with utmost professionalism and adherence to all regulations."
               name="Suresh Reddy"
               title="Municipal Commissioner"
               image="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
