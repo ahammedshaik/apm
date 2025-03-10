@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
             <img src="/assets/logo.svg" className='h-12 w-12 mr-2' alt="APM Logo" width="50" height="50"></img>
               <div>
                 <h3 className="text-xl font-bold text-white m-0">APM</h3>
-                <p className="text-sm text-gray-300 m-0">Construction</p>
+                <h2 className="text-sm text-gray-300 m-0">Construction</h2>
               </div>
             </div>
             <p className="text-gray-400 mb-4">
@@ -43,7 +43,7 @@ const Footer: React.FC = () => {
               <li><Link to="/about" className="text-gray-400 hover:text-white">About Us</Link></li>
               <li><Link to="/services" className="text-gray-400 hover:text-white">Services</Link></li>
               <li><Link to="/projects" className="text-gray-400 hover:text-white">Projects</Link></li>
-              <li><Link to="/team" className="text-gray-400 hover:text-white">Our Team</Link></li>
+              {/* <li><Link to="/team" className="text-gray-400 hover:text-white">Our Team</Link></li> */}
               <li><Link to="/contact" className="text-gray-400 hover:text-white">Contact</Link></li>
             </ul>
           </div>
@@ -82,7 +82,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-6 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} APM Construction. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} APM Constructionsss. All rights reserved.</p>
         </div>
       </div>
     </footer>

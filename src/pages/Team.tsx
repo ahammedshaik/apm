@@ -9,7 +9,7 @@ const Team: React.FC = () => {
       {/* Hero Section */}
       <HeroSection 
         title="Meet Our Expert Team"
-        subtitle="The professionals behind APM Construction's success"
+        subtitle="The professionals behind APM Constructions success"
         backgroundImage="https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80"
       />
 
@@ -19,7 +19,7 @@ const Team: React.FC = () => {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Our Leadership Team</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              At APM Construction, our success is driven by our team of highly skilled professionals. With decades of combined experience in the construction industry, our team brings expertise, innovation, and dedication to every project.
+              At APM Constructions, our success is driven by our team of highly skilled professionals. With decades of combined experience in the construction industry, our team brings expertise, innovation, and dedication to every project.
             </p>
           </div>
 
@@ -99,7 +99,7 @@ const Team: React.FC = () => {
             <div className="md:w-1/2">
               <h2 className="text-3xl font-bold mb-4">Our Team Approach</h2>
               <p className="text-gray-600 mb-4">
-                At APM Construction, we believe in the power of collaboration. Our team works together seamlessly, combining their diverse expertise to deliver exceptional results for our clients.
+                At APM Constructions, we believe in the power of collaboration. Our team works together seamlessly, combining their diverse expertise to deliver exceptional results for our clients.
               </p>
               <p className="text-gray-600 mb-4">
                 We foster a culture of innovation, continuous learning, and excellence. Our team members regularly update their skills and knowledge to stay at the forefront of the construction industry.

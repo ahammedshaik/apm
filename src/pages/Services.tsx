@@ -19,7 +19,7 @@ const Services: React.FC = () => {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Comprehensive Construction Services</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              At APM Construction, we offer a wide range of construction services to meet all your building needs. From residential and commercial projects to government infrastructure, our team of experts delivers excellence at every step.
+              At APM Constructions, we offer a wide range of construction services to meet all your building needs. From residential and commercial projects to government infrastructure, our team of experts delivers excellence at every step.
             </p>
           </div>
         </div>

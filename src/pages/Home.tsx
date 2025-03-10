@@ -12,7 +12,7 @@ const Home: React.FC = () => {
       {/* Hero Section */}
       <HeroSection 
         title="Building Excellence in Hyderabad"
-        subtitle="APM Construction - Your trusted partner for residential, commercial, and government construction projects."
+        subtitle="APM Constructions - Your trusted partner for residential, commercial, and government construction projects."
         buttonText="Get a Free Consultation"
         buttonLink="/contact"
         backgroundImage="https://images.unsplash.com/photo-1541888946425-d81bb19240f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
@@ -30,9 +30,9 @@ const Home: React.FC = () => {
               />
             </div>
             <div className="md:w-1/2">
-              <h2 className="text-3xl font-bold mb-4">About APM Construction</h2>
+              <h2 className="text-3xl font-bold mb-4">About APM Constructions</h2>
               <p className="text-gray-600 mb-4">
-                With over a decade of experience in the construction industry, APM Construction has established itself as one of the leading construction companies in Hyderabad. We specialize in residential, commercial, and government construction projects.
+                With over a decade of experience in the construction industry, APM Constructions has established itself as one of the leading construction companies in Hyderabad. We specialize in residential, commercial, and government construction projects.
               </p>
               <p className="text-gray-600 mb-6">
                 Our team of highly skilled professionals is committed to delivering exceptional quality, innovative solutions, and timely project completion. We take pride in our attention to detail and our ability to bring our clients' visions to life.
@@ -164,7 +164,7 @@ const Home: React.FC = () => {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <TestimonialCard 
-              quote="APM Construction delivered our dream home exactly as we envisioned. Their attention to detail and quality of work is exceptional."
+              quote="APM Constructions delivered our dream home exactly as we envisioned. Their attention to detail and quality of work is exceptional."
               name="Rajesh Kumar"
               title="Homeowner"
               image="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
@@ -176,7 +176,7 @@ const Home: React.FC = () => {
               image="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
             />
             <TestimonialCard 
-              quote="The municipal project handled by APM Construction was executed with utmost professionalism and adherence to all regulations."
+              quote="The municipal project handled by APM Constructionss was executed with utmost professionalism and adherence to all regulations."
               name="Suresh Reddy"
               title="Municipal Commissioner"
               image="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
